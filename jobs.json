@@ -1,0 +1,227 @@
+[
+  {
+      "title": "Software Developer",
+      "education": ["Bachelor", "Master"],
+      "experience": 2,
+      "skills": ["coding", "problem-solving", "debugging", "version control", "database management", "programming", "algorithms", "data structures"],
+      "interests": ["technology", "programming", "software development", "computing", "coding"],
+      "workEnvironment": "Indoors",
+      "description": "Develop and maintain software applications."
+  },
+  {
+      "title": "Data Scientist",
+      "education": ["Master", "PhD"],
+      "experience": 3,
+      "skills": ["statistics", "coding", "data analysis", "machine learning", "big data", "python", "r", "sql"],
+      "interests": ["data", "research", "technology", "analytics", "machine learning", "AI"],
+      "workEnvironment": "Indoors",
+      "description": "Analyze and interpret complex data."
+  },
+  {
+      "title": "Graphic Designer",
+      "education": ["Bachelor"],
+      "experience": 1,
+      "skills": ["creativity", "design", "photo editing", "typography", "branding", "illustration", "adobe", "photoshop", "illustrator"],
+      "interests": ["art", "design", "visual communication", "illustration", "photography"],
+      "workEnvironment": "Either",
+      "description": "Create visual concepts to communicate ideas."
+  },
+  {
+      "title": "Marketing Specialist",
+      "education": ["Bachelor"],
+      "experience": 2,
+      "skills": ["communication", "strategy", "social media", "content creation", "seo", "advertising", "analytics", "campaign management"],
+      "interests": ["business", "marketing", "sales", "advertising", "social media"],
+      "workEnvironment": "Either",
+      "description": "Plan and execute marketing strategies."
+  },
+    {
+        "title": "Content Writer",
+        "education": ["High School", "Bachelor"],
+        "experience": 1,
+        "skills": ["writing", "research", "editing", "seo", "creativity"],
+        "interests": ["literature", "blogging", "content creation"],
+        "workEnvironment": "Indoors",
+        "description": "Write and edit content for various platforms."
+    },
+    {
+        "title": "Web Developer",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["html", "css", "javascript", "web development", "responsive design"],
+        "interests": ["technology", "web development", "programming"],
+        "workEnvironment": "Indoors",
+        "description": "Design and build websites."
+    },
+    {
+        "title": "Product Manager",
+        "education": ["Bachelor", "Master"],
+        "experience": 3,
+        "skills": ["communication", "leadership", "project management", "agile", "business analysis"],
+        "interests": ["business", "management", "product development"],
+        "workEnvironment": "Either",
+        "description": "Oversee the development and delivery of products."
+    },
+    {
+        "title": "UX/UI Designer",
+        "education": ["Bachelor"],
+        "experience": 2,
+        "skills": ["design", "user experience", "wireframing", "prototyping", "usability testing"],
+        "interests": ["design", "technology", "user experience"],
+        "workEnvironment": "Indoors",
+        "description": "Create intuitive and user-friendly interfaces."
+    },
+    {
+        "title": "Financial Analyst",
+        "education": ["Bachelor", "Master"],
+        "experience": 3,
+        "skills": ["analysis", "financial modeling", "excel", "data analysis", "forecasting"],
+        "interests": ["finance", "economics", "investment"],
+        "workEnvironment": "Indoors",
+        "description": "Analyze financial data and trends."
+    },
+    {
+        "title": "Human Resources Manager",
+        "education": ["Bachelor"],
+        "experience": 3,
+        "skills": ["communication", "organization", "recruitment", "employee relations", "conflict resolution"],
+        "interests": ["people", "management", "organizational development"],
+        "workEnvironment": "Either",
+        "description": "Manage HR processes and policies."
+    },
+    {
+        "title": "Sales Representative",
+        "education": ["High School", "Bachelor"],
+        "experience": 1,
+        "skills": ["communication", "negotiation", "sales", "customer service", "product knowledge"],
+        "interests": ["sales", "business", "customer relations"],
+        "workEnvironment": "Either",
+        "description": "Sell products or services to customers."
+    },
+    {
+        "title": "Customer Service Representative",
+        "education": ["High School"],
+        "experience": 1,
+        "skills": ["communication", "problem-solving", "customer service", "patience", "time management"],
+        "interests": ["people", "service", "customer relations"],
+        "workEnvironment": "Either",
+        "description": "Assist customers with inquiries and issues."
+    },
+    {
+        "title": "Mechanical Engineer",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["mechanics", "design", "cad", "problem-solving", "project management"],
+        "interests": ["engineering", "technology", "mechanics"],
+        "workEnvironment": "Either",
+        "description": "Design and develop mechanical systems."
+    },
+    {
+        "title": "Electrical Engineer",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["electronics", "design", "circuit design", "problem-solving", "project management"],
+        "interests": ["engineering", "technology", "electronics"],
+        "workEnvironment": "Either",
+        "description": "Design and develop electrical systems."
+    },
+    {
+        "title": "Civil Engineer",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["design", "construction", "project management", "cad", "problem-solving"],
+        "interests": ["engineering", "construction", "infrastructure"],
+        "workEnvironment": "Either",
+        "description": "Design and oversee construction projects."
+    },
+    {
+        "title": "Teacher",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["communication", "teaching", "patience", "subject knowledge", "classroom management"],
+        "interests": ["education", "learning", "teaching"],
+        "workEnvironment": "Indoors",
+        "description": "Teach and educate students."
+    },
+    {
+        "title": "Nurse",
+        "education": ["Bachelor"],
+        "experience": 1,
+        "skills": ["medical", "caregiving", "communication", "compassion", "time management"],
+        "interests": ["healthcare", "people", "caregiving"],
+        "workEnvironment": "Indoors",
+        "description": "Provide medical care and support to patients."
+    },
+    {
+        "title": "Doctor",
+        "education": ["Master", "PhD"],
+        "experience": 5,
+        "skills": ["medical", "diagnosis", "communication", "problem-solving", "compassion"],
+        "interests": ["healthcare", "science", "medicine"],
+        "workEnvironment": "Indoors",
+        "description": "Diagnose and treat medical conditions."
+    },
+    {
+        "title": "Pharmacist",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["pharmacy", "medication", "communication", "compassion", "time management"],
+        "interests": ["healthcare", "science", "pharmacy"],
+        "workEnvironment": "Indoors",
+        "description": "Dispense medications and advise patients."
+    },
+    {
+        "title": "Research Scientist",
+        "education": ["Master", "PhD"],
+        "experience": 3,
+        "skills": ["research", "analysis", "experimentation", "data analysis", "problem-solving"],
+        "interests": ["science", "innovation", "research"],
+        "workEnvironment": "Either",
+        "description": "Conduct research and experiments."
+    },
+    {
+        "title": "Project Manager",
+        "education": ["Bachelor", "Master"],
+        "experience": 3,
+        "skills": ["management", "organization", "communication", "leadership", "project planning"],
+        "interests": ["business", "projects", "management"],
+        "workEnvironment": "Either",
+        "description": "Plan and manage projects."
+    },
+    {
+        "title": "Consultant",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["analysis", "communication", "problem-solving", "strategy", "presentation"],
+        "interests": ["business", "strategy", "consulting"],
+        "workEnvironment": "Either",
+        "description": "Provide expert advice to organizations."
+    },
+    {
+        "title": "Social Media Manager",
+        "education": ["Bachelor"],
+        "experience": 1,
+        "skills": ["social media", "communication", "content creation", "strategy", "analytics"],
+        "interests": ["marketing", "technology", "social media"],
+        "workEnvironment": "Indoors",
+        "description": "Manage social media platforms and content."
+    },
+    {
+        "title": "Event Planner",
+        "education": ["High School", "Bachelor"],
+        "experience": 1,
+        "skills": ["organization", "planning", "communication", "negotiation", "creativity"],
+        "interests": ["events", "coordination", "planning"],
+        "workEnvironment": "Either",
+        "description": "Plan and organize events."
+    },
+    {
+        "title": "Architect",
+        "education": ["Bachelor", "Master"],
+        "experience": 2,
+        "skills": ["design", "construction", "project management", "creativity", "problem-solving"],
+        "interests": ["architecture", "engineering", "design"],
+        "workEnvironment": "Either",
+        "description": "Design and plan buildings and structures."
+    }
+]

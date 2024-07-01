@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CareerMatchPro</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CareerMatchPro - Find Your PERFECT Job</h1>
+        <p>Answer a few questions to find the most suitable jobs for you.</p>
+        <form id="quizForm">
+            <div class="question">
+                <label for="workEnvironment">Would you prefer to work indoors or outdoors?</label><br>
+                <select id="workEnvironment">
+                    <option value="Indoors">Indoors</option>
+                    <option value="Outdoors">Outdoors</option>
+                    <option value="Either">Either</option>
+                </select>
+            </div>
+            <div class="question">
+                <label for="experience">Years of experience:</label><br>
+                <input type="number" id="experience" name="experience" min="0" max="50">
+            </div>
+            <div class="question">
+                <label for="skills">Key skills (comma-separated):</label><br>
+                <input type="text" id="skills" name="skills">
+            </div>
+            <div class="question">
+                <label for="interests">Interests (comma-separated):</label><br>
+                <input type="text" id="interests" name="interests">
+            </div>
+            <div class="question">
+                <label for="education">Highest level of education:</label><br>
+                <select id="education">
+                    <option value="High School">High School</option>
+                    <option value="Bachelor">Bachelor's Degree</option>
+                    <option value="Master">Master's Degree</option>
+                    <option value="PhD">PhD</option>
+                </select>
+            </div>
+            <button type="submit">Find Jobs</button>
+        </form>
+        <div id="results"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
