@@ -4,13 +4,8 @@ CareerMatchPro is a web application designed to help users find their perfect jo
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-
-## Demo
-
-You can view the live demo of CareerMatchPro [here](#).
 
 ## Features
 
@@ -27,3 +22,14 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/gulinte/careermatchpro.git
    cd careermatchpro
+
+2. **Install dependencies:**:
+   ```sh
+   npm install
+
+3. **Run the Server:**:
+   ```sh
+   npm start
+
+4. **Open your browser** and navigate to http://localhost:3000 to view the application.
+
